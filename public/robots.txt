@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://airasia24jam.id/sitemap.xml
